@@ -22,15 +22,5 @@ class Buttons2 extends StatelessWidget {
             color: Colors.white,),
       ),
     );
-    // return ElevatedButton(
-    //   onPressed: () {},
-    //   style: ElevatedButton.styleFrom(
-    //     backgroundColor: Colors.black, // Background color
-    //   ),
-    //   child: const Text(
-    //     'Elevated Button',
-    //     style: TextStyle(fontSize: 40),
-    //   ),
-    // );
   }
 }
